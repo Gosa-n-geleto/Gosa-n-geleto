@@ -40,7 +40,7 @@ I am a software engineer and researcher focused on **low-resource computing, off
 ---
 
 ### 🔒 Repository & IP Governance Note
-> **For Costumers:**  
+> **For Reviewers:**  
 > Because **Chkela** is commercially governed by **Lolearn Solutions** (co-founded and wholly operated by our nine-member engineering team), roughly **90% of the production codebase**—including our core backend architecture, Amharic AI caching pipelines, payment gateways, and student databases—is strictly maintained inside Lolearn Solutions' private organizational repositories to protect intellectual property, API keys, and student data privacy. The `chkela` repository pinned below showcases only the sanitized, public-facing web interface (~10% of the system).  
 >  
 > For research inquiries, please reach out at **[contact@chkela.com]** or **[geleto.gosa@gmail.com]**.
